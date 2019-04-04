@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "135829814578",
+    "firebase_url": "https://techfugeeshackathon.firebaseio.com",
+    "project_id": "techfugeeshackathon",
+    "storage_bucket": "techfugeeshackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135829814578:android:04c889d7a31b106e",
+        "android_client_info": {
+          "package_name": "com.example.admin.techfugeeshackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlc7SoWdr7DxwIrN5RUR52VDj_7BzkjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135829814578-mlh16vqj3b9nbgt3lkg8lcc3o476a7k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
